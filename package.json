@@ -1,6 +1,7 @@
 {
     "name": "ionic-hello-world",
     "version": "0.0.0",
+<<<<<<< HEAD
     "author": "Ionic Framework",
     "homepage": "http://ionicframework.com/",
     "private": true,
@@ -13,5 +14,8 @@
 		
 		asdasdad
 		asdasdad
+=======
+
+>>>>>>> parent of fa45906... Revert "ok update 3"
     },
    
